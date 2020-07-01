@@ -9,7 +9,7 @@
 
 	<p> <a href="/">Back to Home</a> </p>
 
-	<p> &copy; Arrifqi Aziz</p>
+	<p> &copy; Arrifqi Aziz A</p>
 
 </body>
 </html>
